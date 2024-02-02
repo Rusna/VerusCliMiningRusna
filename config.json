@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RBej254b5sXnADfZtXdWpD1JUgSUXXiA7q.rusna04_Redmi9A",
+	"user": "RBej254b5sXnADfZtXdWpD1JUgSUXXiA7q.rusna04_Redmi_Note8T",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
